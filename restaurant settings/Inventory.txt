@@ -1,0 +1,39 @@
+tomato:70:55
+coke:50:35
+potato:61:60
+salt:30:20
+vegetable oil:15:10
+bun:80:65
+lettuce:77:65
+mayonnaise:43:30
+cheese:78:65
+beef patty:70:55
+bacon:65:50
+chicken patty:60:45
+tortilla:65:50
+chicken strip:90:75
+fish fillet:50:35
+sandwich bread:50:35
+english muffin bread:75:60
+sausage:75:60
+egg:100:70
+flour:50:35
+pepperoni:65:50
+mushroom:45:30
+kale:40:35
+onion:50:35
+carrot:50:35
+chicken breast:60:45
+hot dog bun:40:25
+hot dog:40:25
+ketchup:50:35
+mustard:40:25
+cream:100:23
+rice:300:50
+cucumber:40:20
+vinegar:60:34
+ginger:23:12
+sugar:145:43
+avocado:45:23
+crab:11:3
+seaweed:38:23

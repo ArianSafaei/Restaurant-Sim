@@ -1,0 +1,11 @@
+Tables: 2, 2, 4, 10, 2, 2, 6, 8, 4, 2, 3
+Server, Jeremy Clarkson, s0, server
+Server, Justin Trudeau, s1, server
+Manager, Donald Trump, m0, manager
+Cook, Gordon Ramsay, c0, cook
+Server, Paul McCartney, s2, server
+Cook, Jamie Oliver, c1, cook
+Cook, Marco Pierre White, c2, cook
+Server, Rowan Atkinson, s3, server
+Manager, George Bush, m1, manager
+Server, Yo-Yo Ma, s4, DoesItWork

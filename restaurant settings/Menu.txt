@@ -1,0 +1,8 @@
+Sushi, 500, png/001-sushi.png, rice, 1, cucumber, 1, vinegar, 3, ginger, 2, sugar, 3, avocado, 1, crab, 1, salt, 2, seaweed, 4
+Hot Dog, 500, png/002-hot-dog.png, ketchup, 0, mustard, 0
+Coffee, 100, png/003-coffee.png, cream, 0
+Fries, 200, png/004-fries.png, salt, 4
+Chocolate, 100, png/005-chocolate.png
+Pizza, 200, png/006-pizza.png, pepperoni, 10, mushroom, 5, cheese, 15
+Burger, 500, png/007-burger.png, bun, 2
+Popcorn, 100, png/008-popcorn.png

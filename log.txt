@@ -1,0 +1,22 @@
+Sep 05, 2018 11:29:32 PM Model.Restaurant <init>
+INFO: Restaurant Initialized.
+Sep 05, 2018 11:29:32 PM Model.EmployeeFactory getEmployee
+INFO: Server Jeremy Clarkson has been created with ID s0.
+Sep 05, 2018 11:29:32 PM Model.EmployeeFactory getEmployee
+INFO: Server Justin Trudeau has been created with ID s1.
+Sep 05, 2018 11:29:32 PM Model.EmployeeFactory getEmployee
+INFO: Manager Donald Trump has been created with ID m0.
+Sep 05, 2018 11:29:32 PM Model.EmployeeFactory getEmployee
+INFO: Cook Gordon Ramsay has been created with ID c0.
+Sep 05, 2018 11:29:32 PM Model.EmployeeFactory getEmployee
+INFO: Server Paul McCartney has been created with ID s2.
+Sep 05, 2018 11:29:32 PM Model.EmployeeFactory getEmployee
+INFO: Cook Jamie Oliver has been created with ID c1.
+Sep 05, 2018 11:29:32 PM Model.EmployeeFactory getEmployee
+INFO: Cook Marco Pierre White has been created with ID c2.
+Sep 05, 2018 11:29:32 PM Model.EmployeeFactory getEmployee
+INFO: Server Rowan Atkinson has been created with ID s3.
+Sep 05, 2018 11:29:32 PM Model.EmployeeFactory getEmployee
+INFO: Manager George Bush has been created with ID m1.
+Sep 05, 2018 11:29:32 PM Model.EmployeeFactory getEmployee
+INFO: Server Yo-Yo Ma has been created with ID s4.

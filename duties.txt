@@ -1,0 +1,40 @@
+Joey:
+- Implement ability to split bills for individual customers through Seat and Bill classes
+- Implement ability for servers to calculate bills with tax/tip for any table
+- Move inventory checking responsibility from Cook (Phase 1) to Server
+- Wire order preparation, completion, cancellation, send-back and delivery functionality from Model to Controller
+- Implement password protected login system
+- Modify OrderManager's update method to display updates as notifications
+- Modify order-related methods from phase 1 to facilitate display of notifications for different outcomes
+- Update README for phase 2
+
+Arian:
+- Implemented GUI for Server, Cook, Manager
+-Required multiple layering of pictures and controlling of size of pictures
+- Have dynamically shaded table buttons when hover over table
+- Auto disable button in CookUI so that they cannot start order until they have finished.
+- Created all assets required for GUI to function such as buttons and popup windows
+- tied together behaviour of GUI windows. Ex. When login and server is type of employee, a server window pops up.
+-Created dynamic object placement of tables in server window so that there can be any number of tables less than 15.
+- Implemented functionality for windows to be relative to each other so that they are automatically spaced out and do not go off screen.
+- Handled behaviour of popup windows so that they are always on top, and do not close whole program when quit.
+- Implemented Model View Controller (MVC) design pattern for all action and mouse listeners corresponding to buttons.
+
+Brandon Truong:
+- Created the Log class which creates and gives one logger to each class being logged.
+- Created the receipt window with all the code behind it to format the text as well.
+- Fixed the bill class and added new methods to make it simple to get a receipt.
+- Applied the singleton design pattern to Inventory and OrderManager classes.
+- Added a window to receive shipment coded it.
+- Added the logger and logging statements for all the classes which make sense to log.
+- Added an inventory printout window which prints out the inventory for the manager.
+- Added a window to show the manager a list of recorded payments for that session.
+
+Tian Ze Xu:
+- Created the GUI for Menu, which shows the list of items from which a server can select to order
+- The GUI dynamically adjusts according to the number of items in menu
+- Created the GUI for ModifyIngredient, which allows the server to change the ingredients on a menu item
+- The GUI dynamically adjusts according to the number of ingredients
+- The GUI updates itself when an addition or subtraction is requested
+- Linked GUI with the Model in the MenuController and the ModifyIngredientController by implementing ActionListeners
+- Reduced coupling in multiple classes
