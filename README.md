@@ -1,6 +1,6 @@
 ***TLDR ON HOW TO USE THE PROGRAM***
 
-To run the program, run Model/Restaurant.java (same as phase 1).
+To run the program, run src/Model/Restaurant.java
 
 1. Login screen
 
